@@ -7,3 +7,6 @@ My goal is to document every step of the project, from data exploration to build
 
 Step 1
 Create the GitHub repository and upload the initial project files
+
+Step 2 
+Loan files with data. Check for missing values, duplicates, incorrect data types, and other potential issues. Clean and prepare the data for further analysis.
